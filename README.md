@@ -7,8 +7,6 @@
 </p>
 
 Sou um profissional em transição de carreira, apaixonado por Cibersegurança e determinado a me tornar um Pentester. Minha jornada é movida pela curiosidade, pela emoção de resolver desafios em competições de Capture The Flag (CTF) e pela busca contínua por conhecimento.
-
-- 🔭 Atualmente estou trabalhando nos meus **[write-ups de CTF](https://github.com/[SEU-USUARIO-GITHUB]/meus-writeups)**.
 - 🌱 Estou aprendendo e aprofundando meus conhecimentos em **Python para automação de segurança, SQL e JavaScript**.
 - 🤔 Busco minha primeira oportunidade na área de **Segurança Ofensiva (Pentest / Bug Bounty)**.
 - 📫 Como me encontrar: **juannicarosa@gmail.com** ou pelo LinkedIn acima.
@@ -38,11 +36,4 @@ Sou um profissional em transição de carreira, apaixonado por Cibersegurança e
   </a>
 </p>
 
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+--
